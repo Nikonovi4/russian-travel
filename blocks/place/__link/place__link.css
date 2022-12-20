@@ -1,0 +1,7 @@
+.place__link {
+  color: #ffff;
+}
+
+.place__link:hover {
+  opacity: .8;
+}

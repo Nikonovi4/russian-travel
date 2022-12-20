@@ -1,0 +1,8 @@
+.places {
+  list-style: none;
+  display: grid;
+  grid-template-columns:repeat(1, 1fr);
+  grid-template-rows: repeat(4, auto);
+  padding-left: 0;
+  margin-top: 0;
+}
