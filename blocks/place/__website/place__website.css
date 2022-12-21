@@ -3,7 +3,7 @@
   flex-direction: column;
   justify-content: end;
   gap: 12px;
-  margin-bottom: 32px;
+  margin-bottom: 0;
   margin-left: 16px;
 }
 

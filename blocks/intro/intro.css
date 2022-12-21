@@ -1,7 +1,6 @@
 .intro{
   margin-left: 16px;
   margin-right: 16px;
-  margin-bottom: 64px;
   display: flex;
   flex-direction: column;
 }
@@ -10,7 +9,6 @@
   .intro{
     margin-left: 24px;
     margin-right: 24px;
-    margin-bottom: 88px;
   }
 }
 
@@ -18,7 +16,6 @@
   .intro{
     margin-left: 48px;
     max-width: 690px;
-    margin-bottom: 92px;
   }
 }
 
@@ -26,6 +23,5 @@
   .intro{
     margin-left: 148px;
     max-width: 690px;
-    margin-bottom: 92px;
   }
 }
