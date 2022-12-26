@@ -4,7 +4,7 @@
     local("Inter Black"),
     url("Inter-Black.woff2") format("woff2"),
     url("Inter-Black.woff") format("woff");
-  font-weight: bold;
+  font-weight: 900;
 }
 
 @font-face {
@@ -13,7 +13,7 @@
     local("Inter Regular"),
     url("Inter-Regular.woff2") format("woff2"),
     url("Inter-Regular.woff") format("woff");
-  font-weight: normal;
+  font-weight: 400;
 }
 
 @font-face {

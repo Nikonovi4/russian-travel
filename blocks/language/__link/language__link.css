@@ -1,6 +1,7 @@
 .language__link {
   font-size: 18px;
   line-height: 20px;
+  font-weight: 400;
   color: white;
   text-decoration: none;
 }
